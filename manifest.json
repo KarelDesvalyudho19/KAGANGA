@@ -1,0 +1,17 @@
+{
+  "name": "DIAGA — Digitalisasi Aksara Kaganga",
+  "short_name": "DIAGA",
+  "description": "Museum digital interaktif aksara Ka-Ga-Nga warisan budaya Bengkulu",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#d4a843",
+  "orientation": "any",
+  "lang": "id",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["education", "lifestyle"],
+  "screenshots": []
+}
